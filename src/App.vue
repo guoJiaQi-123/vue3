@@ -1,4 +1,5 @@
 <script setup lang="ts">
+console.log(11);
 
 </script>
 
@@ -7,6 +8,4 @@
 
 </template>
 
-<style scoped>
-
-</style>
+<style scoped></style>
