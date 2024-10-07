@@ -16,6 +16,7 @@ _axios.interceptors.request.use(
         return Promise.reject(error)
     }
 )
+
 _axios.interceptors.response.use(
     (response) => {
         return response
