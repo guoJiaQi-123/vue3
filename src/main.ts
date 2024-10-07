@@ -5,6 +5,11 @@ import './style.css'
 // import E1 from './views/E1.vue'
 // import E2 from './views/E2.vue'
 // import E3 from './views/E3.vue'
-import E4 from './views/E4.vue'
+// import E4 from './views/E4.vue'
+import E5 from './views/E5.vue'
+// import E6 from './views/E6.vue'
 
-createApp(E4).mount('#app')
+// createApp(E6).mount('#app')
+createApp(E5).mount('#app')
+
+// console.log(import.meta.env.VITE_BACKEND_API_BASE_URL)
